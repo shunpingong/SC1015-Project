@@ -1,4 +1,4 @@
-# Welcome to repository
+# SC1015 Data Science Project - HDB_resalePrice
 
 ## About
 
@@ -7,8 +7,6 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 1. [Data Extraction](https://github.com/nicklimmm/movie-analysis/blob/main/data-extraction.ipynb)
 2. [Data Visualization](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
 3. [Data Resampling and Splitting](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
-4. [Logistic Regression](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
-5. [Neural Network](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
   
 ## Contributors
 - @Shun Ping
@@ -18,6 +16,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 - Given how we are entering into adult life where we have to start getting our own flats, we hope to determine
 - Which factor affect the resale_price of HDB the most?
+- Which model will predict resale_Price of HDB the most?
 
 ## Models Used
 
