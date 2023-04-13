@@ -6,7 +6,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 1. [Data Preparation](https://github.com/shunpingong/SC1015-Project/blob/main/Data%20Preparation.ipynb)
 2. [Data Visualization For Numerical](https://github.com/shunpingong/SC1015-Project/blob/main/Data%20Visualization.ipynb)
-3. [Data Visualization For Categorical](https://github.com/shunpingong/SC1015-Project/blob/main/Data%20Visualization.ipynb)
+3. [Data Visualization For Categorical](https://github.com/shunpingong/SC1015-Project/blob/main/Data%20Visualization%20For%20Categorical.ipynb)
 4. [Data Cleaning and Splitting](https://github.com/shunpingong/SC1015-Project/blob/main/Data%20Cleaning%20And%20Splitting.ipynb)
   
 ## Contributors
