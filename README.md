@@ -9,6 +9,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 3. [Data Visualization For Categorical](https://github.com/shunpingong/SC1015-Project/blob/main/Data%20Visualization%20For%20Categorical.ipynb)
 4. [Linear and Multivariate Regression](https://github.com/shunpingong/SC1015-Project/blob/main/Linear%20and%20Multivariate%20Regression.ipynb)
 5. [Gradient Boosting and Lasso Regression and Random Forest](https://github.com/shunpingong/SC1015-Project/blob/main/Gradient%20Boosting%20and%20Lasso%20Regression%20and%20Random%20Forest.ipynb)
+6. [Neural Network](https://github.com/shunpingong/SC1015-Project/blob/main/Neural%20Network.ipynb) TBC
   
 ## Contributors
 - @shunpingong
