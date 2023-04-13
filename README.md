@@ -2,7 +2,7 @@
 
 ## About
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on resale price of HDB from (https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020)). For detailed walkthrough, please view the source code in order from:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on resale price of HDB from (https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020). For detailed walkthrough, please view the source code in order from:
 
 1. [Data Extraction](https://github.com/nicklimmm/movie-analysis/blob/main/data-extraction.ipynb)
 2. [Data Visualization](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
