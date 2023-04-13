@@ -11,8 +11,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 5. [Gradient Boosting and Lasso Regression and Random Forest](https://github.com/shunpingong/SC1015-Project/blob/main/Gradient%20Boosting%20and%20Lasso%20Regression%20and%20Random%20Forest.ipynb)
   
 ## Contributors
-- @Shun Ping
-- @John
+- @shunpingong
+- @JX531
 
 ## Problem Definition
 
