@@ -14,7 +14,7 @@ The code in this notebook is used to check the distributions of the numerical pr
 The code in this notebook is used to check the distributions of the categrorical predicotrs on `resale_price`. The correlation of the predictors and the resale_price is also obtained to give insights on how the nnumerical predicotrs affect resale_price.
 
 4. [Linear and Multivariate Regression](https://github.com/shunpingong/SC1015-Project/blob/main/Linear%20and%20Multivariate%20Regression.ipynb)<br>
-The code in this notebook is used to predict which Numerical and Categorical predictor have the greatest effect on resale_price.  Univariate regression is bering performed on each of the variables in the dataset and `flat_type_num` is the best categorical and `floor_area_sqm` is the best numerical. We further evaluate whether it support what we found by applying it on additional machine learning model in the next notebook.
+The code in this notebook is used to predict which Numerical and Categorical predictor have the greatest effect on resale_price. Univariate regression is bering performed on each of the variables in the dataset and `flat_type_num` is the best categorical and `floor_area_sqm` is the best numerical. We further evaluate whether it support what we found by applying it on additional machine learning model in the next notebook.
 
 
 5. [Gradient Boosting and Lasso Regression and Random Forest](https://github.com/shunpingong/SC1015-Project/blob/main/Gradient%20Boosting%20and%20Lasso%20Regression%20and%20Random%20Forest.ipynb)<br>
