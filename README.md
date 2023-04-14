@@ -5,6 +5,8 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on resale price of HDB from (https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020). For detailed walkthrough, please view the source code in order from:
 
 1. [Data Preparation](https://github.com/shunpingong/SC1015-Project/blob/main/Data%20Preparation.ipynb)
+The code in this notebook is used to extract data from into Numerical and Categorical datasets to gain insights. After data extraction, we explore the different Categorical predictors on resale_price and dropping some that does not provide valuable information. The remaining categorical predictors are mapped and encoded 
+
 2. [Data Visualization For Numerical](https://github.com/shunpingong/SC1015-Project/blob/main/Data%20Visualization%20For%20Numerical.ipynb)
 3. [Data Visualization For Categorical](https://github.com/shunpingong/SC1015-Project/blob/main/Data%20Visualization%20For%20Categorical.ipynb)
 4. [Linear and Multivariate Regression](https://github.com/shunpingong/SC1015-Project/blob/main/Linear%20and%20Multivariate%20Regression.ipynb)
