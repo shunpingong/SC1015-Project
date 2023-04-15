@@ -37,8 +37,8 @@ The code in this notebook is used to predict which variable in both `NumDataClea
 
 1. Linear Regression
 2. Lasso Regression
-3. Random Forest
-4. Gradient Boosting
+3. Gradient Boosting
+4. Random Forest
 5. Neural Network
 
 ## Conclusion
