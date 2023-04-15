@@ -18,7 +18,7 @@ The code in this notebook is used to predict which Numerical and Categorical pre
 
 
 5. [Gradient Boosting and Lasso Regression and Random Forest](https://github.com/shunpingong/SC1015-Project/blob/main/Gradient%20Boosting%20and%20Lasso%20Regression%20and%20Random%20Forest.ipynb)<br>
-The code in tis notebook is used to predict which variable in both `NumDataCleaned` and `CatDataCleaned` are the best in predicting `resale_price`. It is being used into 3 models - Gradient Boosting, Lasso Regression and Random Forest. The features importance of each model is printed to show case which few variables are the best and is being used to compare across all the models to ensure the findings are accurate. `flat_type_num` and `floor_area_sqm` seems have a very high feature importance in most of these models by consistently having a high feature importance score. Random Forest is also a better model, given it have a higher R^2 value and the lowest MSE.
+The code in this notebook is used to predict which variable in both `NumDataCleaned` and `CatDataCleaned` are the best in predicting `resale_price`. It is being used into 3 models - Gradient Boosting, Lasso Regression and Random Forest. The features importance of each model is printed to show case which few variables are the best and is being used to compare across all the models to ensure the findings are accurate. `flat_type_num` and `floor_area_sqm` seems have a very high feature importance in most of these models by consistently having a high feature importance score. Random Forest is also a better model, given it have a higher R^2 value and the lowest MSE.
 
 6. [Neural Network](https://github.com/shunpingong/SC1015-Project/blob/main/Neural%20Network.ipynb) TBC
   
