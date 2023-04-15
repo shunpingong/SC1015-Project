@@ -20,7 +20,7 @@ The code in this notebook is used to predict which predictors have the greatest 
 The code in this notebook is used to predict which variable in both `NumDataCleaned` and `CatDataCleaned` are the best in predicting `resale_price`. It is being used into 3 models - Gradient Boosting, Lasso Regression and Random Forest. The features importance of each model is printed to show which few variables are the best and the variables found are being used to compare across all the models to ensure the findings are accurate. In the end, `flat_type_num` and `floor_area_sqm` seems have a very high feature importance in most of these models by consistently having a high feature importance score. Random Forest is also a better model, given it have a higher R^2 value and the lowest MSE. All the models are performed with Cross Validation to get the best hyperparameters to model and used to predict `resale_price` using the predictors
 
 6. [Neural Network](https://github.com/shunpingong/SC1015-Project/blob/main/Neural%20Network.ipynb)<br>
-The code in this notebook is used to predict which variable in both `NumDataCleaned` and `CatDataCleaned` are the best in predicting `resale_price`. It uses Neural Network Model and R^2 and MSE of train and test are obtained and compared with previous models. We made conclusion on which model is the best by comparing R^2 and MSE across all models and also further confirming our findings of which numerical and categorical predictors are the best. We actually found `floor_area_sqm` and `flat_type_num` to be consistently to be the best numerical and categorical predictor, and neural network also perform worse than random forest. Adam Optimization is used for hypertuning of the parameters to fit the model.
+The code in this notebook is used to predict which variable in both `NumDataCleaned` and `CatDataCleaned` are the best in predicting `resale_price`. It uses Neural Network Model and R^2 and MSE of train and test are obtained and compared with previous models and Adam Optimization is used for hypertuning of the parameters to fit the model. We made conclusion on which model is the best by comparing R^2 and MSE across all models and also further confirming our findings of which numerical and categorical predictors are the best. We actually found `floor_area_sqm` and `flat_type_num` to be consistently to be the best numerical and categorical predictors respectively, and neural network also perform worse than random forest, which imply `Random Forest` is the best model to predict `resale_price` of a HDB.
   
 ## Contributors
 - @shunpingong
@@ -45,7 +45,9 @@ The code in this notebook is used to predict which variable in both `NumDataClea
 1. Briefly summarize your findings in Experiments.
    -
 2. The limitation of your current model. How you can improve your model.
-   -
+   -talk in terms of too many rows of data in our dataset
+   -cannnot really cross validation for many combinations if not take too long to even output
+   -try to cut down more rows of data so we can perform more cross validation to figure out the best hyperparameters
    
 ## What did we learn from this project?
 
