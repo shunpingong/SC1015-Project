@@ -42,12 +42,12 @@ The code in this notebook is used to predict which variable in both `NumDataClea
 5. Neural Network
 
 ## Conclusion
-1. Briefly summarize your findings in Experiments.
-   -
+1. Briefly summarize your findings in Experiments.<br>
+   - test
 2. The limitation of your current model. How you can improve your model.
-   -talk in terms of too many rows of data in our dataset
-   -cannnot really cross validation for many combinations if not take too long to even output
-   -try to cut down more rows of data so we can perform more cross validation to figure out the best hyperparameters
+   - talk in terms of too many rows of data in our dataset
+   - cannnot really cross validation for many combinations if not take too long to even output
+   - try to cut down more rows of data so we can perform more cross validation to figure out the best hyperparameters
    
 ## What did we learn from this project?
 
