@@ -11,7 +11,7 @@ The code in this notebook is used to extract data from into Numerical and Catego
 The code in this notebook is used to check the distributions of the numerical predictors on `resale_price`. The correlation of the predictors and the `resale_price` is also obtained to give insights on how the numerical predictors affect `resale_price`.
 
 3. [Data Visualization For Categorical](https://github.com/shunpingong/SC1015-Project/blob/main/Data%20Visualization%20For%20Categorical.ipynb)<br>
-The code in this notebook is used to check the distributions of the categrorical predictors on `resale_price`. The correlation of the predictors and the `resale_price` is also obtained to give insights on how the numerical predictors affect `resale_price`.
+The code in this notebook is used to check the distributions of the categrorical predictors on `resale_price`. The correlation of the predictors and the `resale_price` is also obtained to give insights on how the categorical predictors affect `resale_price`.
 
 4. [Linear Regression](https://github.com/shunpingong/SC1015-Project/blob/main/Linear%20and%20Multivariate%20Regression.ipynb)<br>
 The code in this notebook is used to predict which predictors have the greatest effect on `resale_price`. Univariate regression is being performed on each each of the numerical predictors for both outliers and without outliers and multivariate regression on the numerical predictors. We continued to perform univariate regression on each of the categorical predictors without outliers. `flat_type_num` was found to be the best categorical and `floor_area_sqm` was the best numerical. We further evaluate whether it support what we found by applying it on additional machine learning models in the next 2 notebooks.
