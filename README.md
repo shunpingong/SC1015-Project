@@ -43,7 +43,11 @@ The code in this notebook is used to predict which variable in both `NumDataClea
 6. Neural Network
 
 ## Conclusion
-
+1. Briefly summarize your findings in Experiments.
+   -
+2. The limitation of your current model. How you can improve your model.
+   -
+   
 ## What did we learn from this project?
 
 
