@@ -36,11 +36,10 @@ The code in this notebook is used to predict which variable in both `NumDataClea
 ## Models Used
 
 1. Linear Regression
-2. Multivariate Regression
-3. Lasso Regression
-4. Random Forest
-5. Gradient Boosting
-6. Neural Network
+2. Lasso Regression
+3. Random Forest
+4. Gradient Boosting
+5. Neural Network
 
 ## Conclusion
 1. Briefly summarize your findings in Experiments.
