@@ -32,6 +32,7 @@ The code in this notebook is used to predict which variable in both `NumDataClea
 - Given how we are entering into adult life where we have to start getting our own flats, we hope to determine
 - Which factor affect the resale_price of HDB the most?
 - Which model will predict resale_Price of HDB the most?
+- This is to help us with our expenses when trying to purchase a flat
 
 ## Models Used
 
