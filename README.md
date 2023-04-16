@@ -65,7 +65,7 @@ The code in this notebook is used to predict which variable in both `NumDataClea
 - Gradient Boosting
 - Lasso Regression
 
-2. New Techniques For Analysis
+2. New Techniques For Analysis and Hyperparameter tuning
 - Cross Validation
 - Adam Optimization
 - Feature Importance
