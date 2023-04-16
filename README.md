@@ -43,15 +43,49 @@ The code in this notebook is used to predict which variable in both `NumDataClea
 
 ## Conclusion
 1. Briefly summarize your findings in Experiments.<br>
-   - test
+   - `lease_commence_date` seems to have no effect on `resale_price`
+   - `floor_area_sqm` seems to be the only numerical predictor affecting `resale_price` from Data Visualisation
+   - `flat_type_num` seems to be the best categorical predictor affecting `resale_price` from Data Visualisation 
+   - `Linear Regression Model` supports the findings and is used as baseline model
+   - `Random Forest Model`perform the best amongst `Gradient Boosting`, `Lasso Regression`, `Neural Network` with the highest R^2 and lowest MSE when predicting `resale_price`
+   - Hyperparameters used for `Random Forest Model` are `best_max_depth: 20`   and  ` best_n_estimators: 500` <br>
+
 2. The limitation of your current model. How you can improve your model.
-   - talk in terms of too many rows of data in our dataset
-   - cannnot really cross validation for many combinations if not take too long to even output
-   - try to cut down more rows of data so we can perform more cross validation to figure out the best hyperparameters
+   - Hyperparameters Of Models might not be the best as we only use a few choices
+   - Current tuning of hyperparameters is taking a significant amount of time, can reduce rows of data if necessary
+   - Too many rows of data so could not perform Cross Validation or Grid Search for extensive amount of combinations
+   - To improve our model, rows of data that are irrelevant or excess can be cut down so we can include more hyperparameters to be tested against to figure the best
+   - Only 5 columns are tested against `resale_price`, could have added more columns from additional excel sheets to be tested together to provide more insights
+
    
 ## What did we learn from this project?
+1. Basic Usages Of New Models
+- Neural Netowrk
+- Random Forest 
+- Gradient Boosting
+- Lasso Regression
 
+2. New Techniques For Analysis
+- Cross Validation
+- Adam Optimization
+- Feature Importance
+- Grid Search
+
+3. Combining Of Techniques With Models
+- Random Forest and Grid Search
+- Neural Network and Adam Optimization
+- Lasso Regression and Cross Validation
+- Gradient Boosting and Grid Search
+- Implementing Feature Importance Techique with all the models to determine predictors with high importance
 
 ## References
 
-- <>
+- <https://medium.com/fintechexplained/what-is-grid-search-c01fe886ef0a#:~:text=Grid%20search%20is%20a%20tuning,us%20time%2C%20effort%20and%20resources.>
+- <https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html>
+- <https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/>
+- <https://vitalflux.com/lasso-ridge-regression-explained-with-python-example/>
+- <https://machinelearningmastery.com/calculate-feature-importance-with-python/>
+- <https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/>
+- <https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html>
+- <https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam>
+- <https://medium.com/fintechexplained/what-is-grid-search-c01fe886ef0a>
