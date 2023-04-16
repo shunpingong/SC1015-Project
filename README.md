@@ -53,7 +53,7 @@ The code in this notebook is used to predict which variable in both `NumDataClea
 2. The limitation of your current model. How you can improve your model.
    - Hyperparameters Of Models might not be the best as we only use a few choices
    - Current tuning of hyperparameters is taking a significant amount of time, can reduce rows of data if necessary
-   - Too many rows of data so could not perform Cross Validation or Grid Search for extensive amount of combinations
+   - Too many rows of data so could not perform Cross Validation or Grid Search for extensive amount of combinations to find the best hyperparameters
    - To improve our model, rows of data that are irrelevant or excess can be cut down so we can include more hyperparameters to be tested against to figure the best
    - Only 5 columns are tested against `resale_price`, could have added more columns from additional excel sheets to be tested together to provide more insights
 
