@@ -88,4 +88,3 @@ The code in this notebook is used to predict which variable in both `NumDataClea
 - <https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/>
 - <https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html>
 - <https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam>
-- <https://medium.com/fintechexplained/what-is-grid-search-c01fe886ef0a>
