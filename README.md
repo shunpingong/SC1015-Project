@@ -61,7 +61,7 @@ The code in this notebook is used to predict which variable in both `NumDataClea
    
 ## What did we learn from this project?
 1. Basic Usages Of New Models
-- Neural Netowrk
+- Neural Network
 - Random Forest 
 - Gradient Boosting
 - Lasso Regression
