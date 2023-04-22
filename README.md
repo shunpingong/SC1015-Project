@@ -28,10 +28,11 @@ The code in this notebook is used to predict which variable in both `NumDataClea
 
 ## Problem Definition
 
-- Given how we are entering into adult life where we have to start getting our own flats, we hope to determine
+- Given how we are entering into adult life where we have to start getting our own flats
+- Housing plays a huge factor on our expenses, we hope to determine
 - Which factor affect the resale_price of HDB the most?
-- Which model will predict resale_Price of HDB the most?
-- This is to help us with our expenses when trying to purchase a flat and allow us to make better informed decision to save us costs.
+- Which model will predict resale_price of HDB the most?
+- This is to help us with our expenses when trying to purchase a flat and allow us to make better informed decision to save us costs and cope with rising inflation.
 
 ## Models Used
 
